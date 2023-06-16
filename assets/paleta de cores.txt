@@ -1,0 +1,5 @@
+Vermelho claro - #CD2224
+Vermelho escuro - #70090C
+Branco - #F1F6FB
+Cinza médio - #C7CBD4
+Cinza escuro - #5A5A5A
